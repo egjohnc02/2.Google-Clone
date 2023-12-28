@@ -1,0 +1,9 @@
+~ Css syntax
+~ Inline vs block
+~ Margins
+~ Padding
+~ Borders
+~ Divs
+~ Classes
+~ Centering
+~ Flexbox
